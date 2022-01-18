@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/interview-movies/static/css/main.0d37ce73.css",
+    "main.js": "/interview-movies/static/js/main.fe7b2c75.js",
+    "index.html": "/interview-movies/index.html",
+    "main.0d37ce73.css.map": "/interview-movies/static/css/main.0d37ce73.css.map",
+    "main.fe7b2c75.js.map": "/interview-movies/static/js/main.fe7b2c75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d37ce73.css",
+    "static/js/main.fe7b2c75.js"
+  ]
+}
